@@ -1,0 +1,157 @@
+
+body {
+      margin: 0;
+      padding: 0;
+      background: url("file:///C:/HTML/images/pexels-eberhard-grossgasteiger-2310713.jpg") no-repeat center center fixed;
+      background-size: cover;
+        }
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); 
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   border-radius: 20px;
+}
+body {
+	background-color: hsl(14, 76%, 90%)
+}
+.fontsize {
+font-size:80px;
+text-align:center;	
+color:white;
+background-color:rgba(255, 0, 0, 0.2);
+text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px darkblue;
+
+
+}
+#meun {
+color:white;
+}
+
+body, img {
+  margin: 0;
+  padding: 0;
+}
+.moving-image {
+  position: relative;
+ left: 150px;
+ top: 40px;
+ width:200px;
+}
+.moving-image2 {
+  position: relative;
+ left:450px;
+ top: -200px;
+ width:300px;
+}
+.moving-image3 {
+  position: relative;
+ left:850px;
+ top: -450px;
+ width:170px;
+}
+.moving-image4 {
+  position: relative;
+ left:1150px;
+ top: -700px;
+ width:300px;
+}
+.moving-image5 {
+  position: relative;
+ left:800px;
+ top: -475px;
+ width:300px;
+}
+.moving-image6 {
+  position: relative;
+ left:1150px;
+ top: -700px;
+ width:300px;
+}
+.moving-image7 {
+  position: relative;
+ left:450px;
+ top: -930px;
+ width:300px;
+}
+.moving-image8 {
+  position: relative;
+ left:100px;
+ top: -1200px;
+ width:250px;
+}
+.moving-image9 {
+  position: relative;
+ left:615px;
+ top:15px;
+ width:250px;
+}
+.moving-image10 {
+  position: relative;
+ left:1150px;
+ top:-1150px;
+ width:300px;
+}
+.moving-image11 {
+  position: relative;
+ left:850px;
+ top:-1380px;
+ width:200px;
+}
+.moving-image12 {
+  position: relative;
+ left:500px;
+ top:-1650px;
+ width:200px;
+}
+.moving-image13 {
+  position: relative;
+ left:100px;
+ top:-2000px;
+ width:250px;
+}
+.moving-image14 {
+  position: relative;
+ left:400px;
+ top:-1900px;
+ width:250px;
+}
+.moving-image15 {
+  position: relative;
+ left:800px;
+ top:-2250px;
+ width:250px;
+}
+.movetext{
+  position: relative;
+   left:-300px;
+   top:90px
+   }
+   .movetext2{
+	  position: relative;
+	  left:300px; 
+	  top:50px;
+   }
+    .movetext3{
+	 position: relative;
+	 top:50px;
+	 left:-325px;
+	}
+	.movetext4{
+	 position: relative;
+	 top:-250px;
+	 left:300px;
+	}
+	
