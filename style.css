@@ -76,7 +76,7 @@ body, img {
 	.movetext5{
 	 position: relative;
 	 top:-180px;
-	 left:70px;
+	 left:0px;
 	}
 	.flex-container {
   display: flex;
