@@ -1,0 +1,115 @@
+
+body {
+      margin: 0;
+      padding: 0;
+      background: url("images/pexels-eberhard-grossgasteiger-2310713.jpg") no-repeat center center fixed;
+      background-size: cover;
+        }
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5); 
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 20px;
+  
+}
+body {
+	background-color: hsl(14, 76%, 90%)
+}
+.fontsize {
+font-size:80px;
+text-align:center;	
+color:white;
+background-color:rgba(255, 0, 0, 0.2);
+text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px darkblue;
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#meun {
+color:white;
+}
+
+body, img {
+  margin: 0;
+  padding: 0;
+}
+
+
+	.flex-container {
+  display: flex;
+  align-items: center; 
+  gap: 150px;
+  width:500px;
+}
+	.flex-container1 {
+  display: flex;
+  align-items: center; 
+  gap: 50px;
+  width:450px;
+}
+.flex-container2 {
+  display: flex;
+  align-items: center; 
+  gap: 80px;
+  width:650px;
+}
+.flex-container3 {
+  display: flex;
+  align-items: center; 
+  gap: 50px;
+  width:650px;
+}
+.flex-container4 {
+  display: flex;
+  align-items: center; 
+  gap: 100px;
+  width:400px;
+  
+}
+.flex-container5{
+  display: flex;
+  align-items: center; 
+  gap:60px;
+  width:500px;
+  
+}
+.flex-container6{
+  display: flex;
+  align-items: center; 
+  gap:100px;
+  width:400px;
+  
+}
+
+.trip{
+text-align:center;	
+font-family: 'Zen Tokyo Zoo';font-size: 45px;
+color:white;
+background-color:rgba(255, 0, 0, 0.2); width:35%;
+ 	
+}
+.mybaking{
+background-color:white;
+color:rgba(255, 0, 0, 0.5);
+padding: 5px;
+	
+}
